@@ -1,8 +1,0 @@
-# 환경변수 파일
-.env
-
-.venv/
-__pycache__/
-*.pyc
-
-chromedriver_v145.exe
