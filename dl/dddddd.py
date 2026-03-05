@@ -45,4 +45,8 @@ print(komoran.pos("아버지가방에들어가신다"))
 print(komoran.nouns("아버지가방에들어가신다"))
 print(komoran.morphs("아버지가방에들어가신다"))
 
+from keras.src.losses.losses import binary_crossentropy #as binary_crossentropy
+
+
+
 print("정상")
